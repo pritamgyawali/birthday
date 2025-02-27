@@ -3,7 +3,7 @@ const data = {
   greeting: "Hiya,",
   name: "Ma'am",
   greetingText: "I really like your nickname btw!",
-  wishText: "May the js.prototypes always be with you! ;)",
+  wishText: "May my ability to annoy you never fade. Happy suffering, pookie! ;)",
   imagePath: "img/pookie.jpg",
   text1: "It's your birthday!!! :D",
   textInChatBox: "Happy birthday to you!! Yeee! Many many happy blah...",
