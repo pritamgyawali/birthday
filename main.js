@@ -1,7 +1,7 @@
 // Hardcoded data to customize and insert into the page
 const data = {
   greeting: "Hiya,",
-  name: "Ma'am",
+  name: "Sam's",
   greetingText: "I really like your nickname btw!",
   wishText: "May my ability to annoy you never fade. Happy suffering, pookie! ;)",
   imagePath: "img/pookie.jpg",
